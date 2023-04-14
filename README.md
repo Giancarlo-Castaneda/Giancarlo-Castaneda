@@ -1,8 +1,8 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/giancarlo-castaneda-garcia/">Giancarlo Castañeda</a> 👋</h1>
+<h1 align="center">Hi, I´m <a href="https://www.linkedin.com/in/giancarlo-castaneda-garcia/">Giancarlo Castañeda</a> 👋</h1>
 </div>
 
-
+## About me
 - 🔭 I’m currently working on Uber
 - 🌱 I’m currently learning Combine and SwiftUI
 
