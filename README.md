@@ -3,7 +3,6 @@
 </div>
 
 ## About me
-- 🔭 I’m currently working on Uber
 - 🌱 I’m currently learning Combine and SwiftUI
 
 ## Stats📈
