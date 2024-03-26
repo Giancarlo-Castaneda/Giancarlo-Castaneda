@@ -3,7 +3,13 @@
 </div>
 
 ## About me
-- 🌱 I’m currently learning Combine and SwiftUI
+- 🌱 I’m currently learning Combine, SwiftUI, and Golang
+- 👀 A software engineer and developer with more than 6 years of industry experience in Swift, Objc, No-SQL, SQL, Flutter, Dart
+- ❤️ I love working on cutting-edge applications that seek to update themselves and are not afraid to implement the best tech solutions
+- 💞️ I want to collaborate on software architecture, development skills, and VR projects.
+<!--* 🌱 I have deep expertise in Substrate (Polkadot), Hyperledger Fabric, Firefly (GO), Cosmos SDK (GO), Solana + Near (Rust), Aptos + Sui (Move), and Cardano (Haskell).
+* 📫 How to reach me - @
+-->
 
 ## Stats📈
 
@@ -15,18 +21,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Giancarlo-Castaneda&theme=highcontrast&hide_border=true" alt="Giancarlo-Castaneda" />
 </a>
 </p>
-<!--
-**Giancarlo-Castaneda/Giancarlo-Castaneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Giancarlo-Castaneda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Giancarlo-Castaneda" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Giancarlo-Castaneda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Giancarlo-Castaneda" />
-
-</p>
-### ⚙️ &nbsp;GitHub Analytics
--->
