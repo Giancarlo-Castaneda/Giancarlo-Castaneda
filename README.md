@@ -21,3 +21,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Giancarlo-Castaneda&theme=highcontrast&hide_border=true" alt="Giancarlo-Castaneda" />
 </a>
 </p>
+
+<p align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/688b98e4087fc9883f6c4f0b?variant=dark" alt="roadmap.sh"/></a>
+</p>
