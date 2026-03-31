@@ -3,8 +3,8 @@
 </div>
 
 ## About me
-- 🌱 I’m currently learning Combine, SwiftUI, and Golang
-- 👀 A software engineer and developer with more than 7 years of industry experience in Swift, Objc, No-SQL, SQL, Flutter, Dart
+- 🌱 I’m currently learning SwiftUI, iOS design patterns, Golang and Python
+- 👀 A software engineer and developer with more than 8 years of industry experience in Swift, Objc, No-SQL, SQL, Flutter, Dart
 - ❤️ I love working on cutting-edge applications that seek to update themselves and are not afraid to implement the best tech solutions
 - 💞️ I want to collaborate on software architecture, development skills, and VR projects.
 <!--* 🌱 I have deep expertise in Substrate (Polkadot), Hyperledger Fabric, Firefly (GO), Cosmos SDK (GO), Solana + Near (Rust), Aptos + Sui (Move), and Cardano (Haskell).
